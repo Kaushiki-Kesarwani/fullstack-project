@@ -1,14 +1,12 @@
 
 import './App.css'
+import Route from './route'
 
 function App() {
 
-
   return (
     <>
-      <div>
-        Let's build!
-      </div>
+      <Route />
     </>
   )
 }
